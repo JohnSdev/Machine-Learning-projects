@@ -8,7 +8,7 @@ I wanted to combine HW development and ML for this project. I have a great intre
 
 
 
-[Go to project](https://github.com/JohnSdev/Machine-Learning-projects)
+[Go to project](https://github.com/JohnSdev/Machine-Learning-projects/tree/master/EdgeML)
 
 
 ### Timeseries classification
