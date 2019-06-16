@@ -230,7 +230,7 @@ work, no security was added to the hardware or software.
 
 
 #### References
-* Hårdvara 
+Hardware:
 * Ardiuno UNO R3
 * MLT-BT05 BLE Module
 * TMP36 Temp
