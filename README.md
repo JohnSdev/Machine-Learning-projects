@@ -36,4 +36,4 @@ This is a boilerplate for a dockerized model deployment. It consists of a model,
 ### Transfer lerarning with Keras
 Multilabel classification for transfer learning with images. 
 
-[Go to project](https://github.com/JohnSdev/Machine-Learning-projects)
+[Go to project](https://github.com/JohnSdev/Machine-Learning-projects/tree/master/Keras)
