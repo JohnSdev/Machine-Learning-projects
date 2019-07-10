@@ -29,7 +29,7 @@ Using Teapot for gridsearch classification.
 ### Tensorflow Serving with Python Flask API
 This is a boilerplate for a dockerized model deployment. It consists of a model, Tesonrflow serving and an API to make requests.
 
-[Go to project](https://github.com/JohnSdev/Machine-Learning-projects)
+[Go to project](https://github.com/JohnSdev/Machine-Learning-projects/tree/master/ML-API)
 
 
 
@@ -37,9 +37,3 @@ This is a boilerplate for a dockerized model deployment. It consists of a model,
 Multilabel classification for transfer learning with images. 
 
 [Go to project](https://github.com/JohnSdev/Machine-Learning-projects)
-
-
-
-### Object detection with Google object detection API
-[Go to project](https://github.com/JohnSdev/Machine-Learning-projects)
-
