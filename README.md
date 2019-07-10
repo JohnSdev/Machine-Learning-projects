@@ -1,5 +1,5 @@
 # Machine-Learning-projects
-Collection of different personal projects within ML.
+Collection of different personal projects within ML over the past 2 years ( 2017-2019 )
 ____
 
 
